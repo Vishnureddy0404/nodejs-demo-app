@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-demo-app",
+  "version": "1.0.0",
+  "description": "Sample Node.js app for CI/CD with GitHub Actions",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "author": "chinna",
+  "license": "MIT"
+}
