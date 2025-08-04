@@ -5,8 +5,9 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
+    "build": "echo 'No build step needed'",
     "test": "echo \"No tests yet\" && exit 0"
   },
-  "author": "chinna",
+  "author": "vishnu",
   "license": "MIT"
 }
